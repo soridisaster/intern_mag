@@ -1,0 +1,65 @@
+.d4{
+    height: 165px;
+    width: 165px;
+}
+button{
+    width: 80px;
+    height: 50px;
+    color: black;
+    background-color: gold;
+    position: relative;
+    left: 300px;
+    top: -110px;
+}
+.d8{
+    height: 370px;
+    width: 480px;
+}
+.d10{
+    height: 370px;
+    width: 480px;
+}
+.b5{
+    top: -125px;
+}
+.p1{
+    position: relative;
+    left: 500px;
+    bottom: 150px;
+}
+.p2{
+    position: relative;
+    bottom: 150px;
+    left: 500px;
+}
+.footer{
+    background-color: white;
+    width: 2559px;
+    height: 252px;
+   position: relative;
+    top: 500px;
+    right: 10px;
+}
+.img_1{
+    width: 60px;
+}
+.text1{
+    right:-1500px;
+    bottom: -190px;
+    position: relative;
+}
+.text2{
+    position: relative;
+    right: -600px;
+    bottom: -160px;
+}
+.img4{
+    position: relative;
+    right: -200px;
+    bottom: -80px;
+    width: 50px;
+    height: 50px;
+}
+body{
+    background-color: coral;
+}
